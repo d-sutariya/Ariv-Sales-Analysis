@@ -1,5 +1,7 @@
 # Sales Analysis Dashboard for Ariv Hardware Inc.
 
+![Dashboard](https://github.com/d-sutariya/Ariv-Sales-Analysis/blob/main/images/Screenshot%20(167).png)
+
 ## Overview  
 Ariv Hardware Inc., headquartered in Delhi, operates stores across various regions of India, including North, South, and Central zones. Until recently, sales projections and business health assessments were conducted manually by the sales director, leading to inconsistencies and inefficiencies. To address this, a dashboard was developed to provide a centralized and interactive view of sales data, ensuring reliable decision-making and streamlined sales tracking.
 
@@ -29,12 +31,18 @@ Real-world data challenges were addressed through robust preprocessing:
 ## Key Findings  
 1. **Regional and Product Insights**:  
    - The company has strong revenue and profit margins in major cities such as Delhi, Mumbai, Ahmedabad, and Chennai due to bulk sales.  
-   - Mid-tier cities like Surat, Patna, and Bhubaneswar show significant potential for growth, with higher profit-to-revenue ratios than larger cities.  
-2. **Profitability Challenges in Bengaluru**:  
-   - Despite being a key market, Bengaluru shows profitability struggles. Targeted strategies should be implemented to strengthen its position.  
-3. **Center vs. North**:  
-   - The Center region shows higher profit margins compared to the northern region, but sales quantities are lower. Increasing sales volume in the Center could significantly boost overall profitability.  
-4. **Top Markets and Products**:  
+   - Mid-tier cities like Surat, Patna, and Bhubaneswar show significant potential for growth, with higher profit-to-revenue ratios than larger cities.
+
+   ![Region Comparison](https://github.com/d-sutariya/Ariv-Sales-Analysis/blob/main/images/Screenshot%20(157)1.png)
+   
+3. **Profitability Challenges in Bengaluru**:  
+   - Despite being a key market, Bengaluru shows profitability struggles. Targeted strategies should be implemented to strengthen its position.
+     
+4. **Center vs. North**:  
+   - The Center region shows higher profit margins compared to the northern region, but sales quantities are lower. Increasing sales volume in the Center could significantly boost overall profitability.
+     ![Center vs North](https://github.com/d-sutariya/Ariv-Sales-Analysis/blob/main/images/Screenshot%20(169).png)
+     
+5. **Top Markets and Products**:  
    - Analysis of sales trends revealed the most profitable regions, products, and customer types, aiding in inventory optimization and targeted marketing campaigns.  
 
 ## Tools and Technologies  
