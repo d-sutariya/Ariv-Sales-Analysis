@@ -24,7 +24,7 @@ Real-world data challenges were addressed through robust preprocessing:
 2. Elimination of duplicate entries.  
 3. Conversion of all currencies to INR for consistency.  
 4. Exclusion of data from the USA, as the company no longer operates in this region.  
-5. Tackled zero sales amount products by communicating with the team to confirm data accuracy.
+5. Tackling zero-sales-amount products by communicating with the team to ensure accurate data representation.  
 
 ## Key Findings  
 1. **Regional and Product Insights**:  
@@ -32,7 +32,9 @@ Real-world data challenges were addressed through robust preprocessing:
    - Mid-tier cities like Surat, Patna, and Bhubaneswar show significant potential for growth, with higher profit-to-revenue ratios than larger cities.  
 2. **Profitability Challenges in Bengaluru**:  
    - Despite being a key market, Bengaluru shows profitability struggles. Targeted strategies should be implemented to strengthen its position.  
-3. **Top Markets and Products**:  
+3. **Center vs. North**:  
+   - The Center region shows higher profit margins compared to the northern region, but sales quantities are lower. Increasing sales volume in the Center could significantly boost overall profitability.  
+4. **Top Markets and Products**:  
    - Analysis of sales trends revealed the most profitable regions, products, and customer types, aiding in inventory optimization and targeted marketing campaigns.  
 
 ## Tools and Technologies  
@@ -42,7 +44,8 @@ Real-world data challenges were addressed through robust preprocessing:
 ## Recommendations  
 1. Focus on expanding operations and marketing in high-potential mid-tier cities.  
 2. Address operational inefficiencies in Bengaluru through market analysis and customer engagement.  
-3. Leverage insights to optimize inventory and promotional strategies for top-performing products and regions.  
+3. Increase sales volume in the southern region to capitalize on its higher profit margins.  
+4. Leverage insights to optimize inventory and promotional strategies for top-performing products and regions.  
 
 ## Outcome  
 The dashboard provides the sales director and other stakeholders with a holistic view of the company's performance, enabling data-driven decisions and improving the overall operational efficiency of Ariv Hardware Inc.  
